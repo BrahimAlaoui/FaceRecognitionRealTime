@@ -27,4 +27,3 @@ An innovative Face Recognition-based Attendance System that uses deep learning t
 - **CRUD Operations**: Add, remove, update student records with ease.
 - **Export Functionality**: Export data to Excel for further analysis.
 
-- 
